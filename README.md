@@ -1,5 +1,5 @@
 # employee-api-security
-Spring Boot REST Employee API with Spring Security
+Spring Boot REST Employee API with Spring Security.
 
 ## Endpoints
 `GET` - `/employees`
